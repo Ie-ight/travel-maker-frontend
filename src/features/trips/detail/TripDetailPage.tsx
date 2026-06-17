@@ -4,7 +4,7 @@ import { SimilarTripCourses } from './components/SimilarTripCourses'
 import { TripDayItinerary } from './components/TripDayItinerary'
 import { TripDetailActions } from './components/TripDetailActions'
 import { TripDetailHero } from './components/TripDetailHero'
-import { TripMapPreview } from './components/TripMapPreview'
+import TripMapPreview from './components/TripMapPreviewClient'
 import { TripSummaryBar } from './components/TripSummaryBar'
 import { css } from '@/styled-system/css'
 
