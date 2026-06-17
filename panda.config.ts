@@ -3,13 +3,6 @@ import { defineConfig } from '@pandacss/dev'
 export default defineConfig({
   preflight: true,
 
-  conditions: {
-    extend: {
-      dark: '.dark &',
-      light: '.light &',
-    },
-  },
-
   include: ['./src/**/*.{js,jsx,ts,tsx}'],
 
   exclude: [],
