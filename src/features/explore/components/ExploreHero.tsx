@@ -36,6 +36,7 @@ export function ExploreHero({
             src={bgImage}
             alt={heroTitle}
             fill
+            sizes="100vw"
             className={css({ objectFit: 'cover' })}
             priority
           />

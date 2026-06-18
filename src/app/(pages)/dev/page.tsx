@@ -280,7 +280,7 @@ export default function DevPage() {
 
         <PlaygroundSection
           title="Filter"
-          description="FilterCard(탭형), SubTagFilter 두 버전을 확인합니다."
+          description="FilterCard(탭형) 필터 컴포넌트를 확인합니다."
         >
           <FilterPlayground />
         </PlaygroundSection>
